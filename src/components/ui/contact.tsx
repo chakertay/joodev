@@ -33,7 +33,7 @@ export function Contact() {
               variants={fadeInUp}
             >
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-                Let's Talk
+                Let&apos;s Talk
               </h2>
               <p className="text-neutral-400 mb-8 text-lg">
                 Schedule a call with our team to discuss how we can help transform your business with our solutions.
