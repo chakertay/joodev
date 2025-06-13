@@ -63,8 +63,8 @@ export default function Home() {
           {/* Large card - 2x2 */}
           <div className="md:col-span-2 row-span-2 h-[600px]">
             <CardDemo 
-              title="Premium Service" 
-              description="Experience our most comprehensive package with exclusive features and priority support." 
+              title="AI-Powered Revenue Recovery & Optimization" 
+              description="Minimize lost sales and maximize revenue with intelligent cart abandonment detection and personalized, multi-channel recovery campaigns via SMS, emails, and ads to re-engage customers and convert abandoned carts into completed purchases." 
               image="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xnbTBobTc5eXhkNHQ1M2VjM2VhOWFrZW11aWFpZGQ4cTBnbzdhciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RlwF2vFb4y7bDnWvcO/giphy.gif"
               className="h-full"
             />
@@ -73,8 +73,8 @@ export default function Home() {
           {/* Medium cards - 1x1 */}
           <div className="md:col-span-1 h-[288px]">
             <CardDemo 
-              title="Standard" 
-              description="Perfect for growing businesses with advanced needs." 
+              title="Automated Customer Loyalty" 
+              description="Automated, personalized post-purchase communications." 
               image="https://media.giphy.com/media/l4FsmpXJlu0VSteLe/giphy.gif?cid=ecf05e47cf311fnfkmuf8zvzrd5memapvp5pw9m7oh53gl7z&ep=v1_gifs_search&rid=giphy.gif&ct=g"
               className="h-full"
             />
@@ -82,9 +82,9 @@ export default function Home() {
           
           <div className="md:col-span-1 h-[288px]">
             <CardDemo 
-              title="Basic" 
-              description="Essential features to get you started." 
-              image="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif?cid=ecf05e479djctztx4aqgob7ugws0yq4zpkh3e55k8vi9058x&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+              title="Inventory Management" 
+              description="Product information synchronization and content publishing across all sales channels." 
+              image="https://media.giphy.com/media/xUOwGdwxqXCukhgUmY/giphy.gif?cid=ecf05e475z0kas8v706ylmq9g8ea6tdajuqamfsk9jxjsxbx&ep=v1_gifs_related&rid=giphy.gif&ct=g"
               className="h-full"
             />
           </div>
@@ -92,8 +92,8 @@ export default function Home() {
           {/* Wide card - 2x1 */}
           <div className="md:col-span-3 lg:col-span-2 h-[288px]">
             <CardDemo 
-              title="Starter" 
-              description="Perfect for small projects and testing with all the basic features you need to get started quickly and efficiently." 
+              title="Dynamic Pricing & Competitive Edge" 
+              description="Stay ahead and optimize margins with real-time competitor price monitoring and automated dynamic pricing. " 
               image="https://media.giphy.com/media/fSRQtBAzrPokPCItuu/giphy.gif?cid=ecf05e479djctztx4aqgob7ugws0yq4zpkh3e55k8vi9058x&ep=v1_gifs_search&rid=giphy.gif&ct=g"
               className="h-full"
             />

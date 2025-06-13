@@ -5,59 +5,59 @@ export const clients = [...new Array(10)].map((client, index) => ({
 export const products = [
     {
       title: 'Moonbeam',
-      link: 'https://gomoonbeam.com',
-      thumbnail: '/p1.png',
+      link: '#',
+      thumbnail: '/auto 1 - Modifié.jpg',
     },
     {
       title: 'Cursor',
-      link: 'https://cursor.so',
-      thumbnail: '/p2.png',
+      link: '#',
+      thumbnail: '/auto 2 - Modifié.jpg',
     },
     {
       title: 'Rogue',
-      link: 'https://userogue.com',
-      thumbnail: '/p3.png',
+      link: '#',
+      thumbnail: '/auto 3 - Modifié.jpg',
     },
   
     {
       title: 'Editorially',
-      link: 'https://editorially.org',
-      thumbnail: '/p4.png',
+      link: '#',
+      thumbnail: '/auto 4 - Modifié.png',
     },
     {
       title: 'Editrix AI',
-      link: 'https://editrix.ai',
-      thumbnail: '/p5.png',
+      link: '#',
+      thumbnail: '/auto 5 - Modifié.png',
     },
     {
       title: 'Pixel Perfect',
-      link: 'https://app.pixelperfect.quest',
-      thumbnail: '/p6.png',
+      link: '#',
+      thumbnail: '/auto 6 - Modifié.png',
     },
   
     {
       title: 'Algochurn',
-      link: 'https://algochurn.com',
-      thumbnail: '/p1.png',
+      link: '#',
+      thumbnail: '/auto 7 - Modifié.jpg',
     },
     {
       title: 'Aceternity UI',
-      link: 'https://ui.aceternity.com',
-      thumbnail: '/p2.png',
+      link: '#',
+      thumbnail: '/auto 8 - Modifié.png',
     },
     {
       title: 'Tailwind Master Kit',
-      link: 'https://tailwindmasterkit.com',
-      thumbnail: '/p3.png',
+      link: '#',
+      thumbnail: '/auto 9 - Modifié.jpg',
     },
     {
       title: 'SmartBridge',
-      link: 'https://smartbridgetech.com',
+      link: '#',
       thumbnail: '/p4.png',
     },
     {
       title: 'Renderwork Studio',
-      link: 'https://renderwork.studio',
+      link: '#',
       thumbnail: '/p5.png',
     },
   
