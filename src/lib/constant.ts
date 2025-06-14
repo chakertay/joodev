@@ -4,12 +4,12 @@ export const clients = [...new Array(10)].map((client, index) => ({
 
 export const products = [
     {
-      title: 'Moonbeam',
+      title: 'MDeep Personalization Cold Outreach Engine',
       link: '#',
       thumbnail: '/auto 1 - Modifié.jpg',
     },
     {
-      title: 'Cursor',
+      title: 'Search Intent Lead Scraper',
       link: '#',
       thumbnail: '/auto 2 - Modifié.jpg',
     },
@@ -20,33 +20,33 @@ export const products = [
     },
   
     {
-      title: 'Editorially',
+      title: 'YouTube Parasite Content Repurposer',
       link: '#',
       thumbnail: '/auto 4 - Modifié.png',
     },
     {
-      title: 'Editrix AI',
+      title: ' AI-Curated Newsletter Factory',
       link: '#',
       thumbnail: '/auto 5 - Modifié.png',
     },
     {
-      title: 'Pixel Perfect',
+      title: 'Event Registration & Follow-up Automation',
       link: '#',
       thumbnail: '/auto 6 - Modifié.png',
     },
   
     {
-      title: 'Algochurn',
+      title: 'Social Media Content Scheduling & Cross-Posting',
       link: '#',
       thumbnail: '/auto 7 - Modifié.jpg',
     },
     {
-      title: 'Aceternity UI',
+      title: 'Competitor Price Monitoring & Alert System',
       link: '#',
       thumbnail: '/auto 8 - Modifié.png',
     },
     {
-      title: 'Tailwind Master Kit',
+      title: 'Expense Report Generation from Receipts',
       link: '#',
       thumbnail: '/auto 9 - Modifié.jpg',
     },

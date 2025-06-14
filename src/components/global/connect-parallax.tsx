@@ -110,7 +110,7 @@ export const Header = () => {
             <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
                 We build products that cuts down cost and generate sales.
                 We are a team of passionate developers and consultants that help business owners 
-                optimize business processes and outcompete competitors .
+                optimize business processes and outcompete competitors.
             </p>
         </div>
     )
