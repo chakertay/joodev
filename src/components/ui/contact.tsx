@@ -49,7 +49,7 @@ export function Contact() {
               <Button 
                 variant="outline" 
                 className="w-full py-6 text-lg bg-white/5 hover:bg-white/10 border-white/20 text-white hover:text-white transition-all duration-300 transform hover:scale-[1.02]"
-                onClick={() => window.open("https://calendly.com/axalya", "_blank")}
+                onClick={() => window.open("https://cal.com/axalya", "_blank")}
               >
                 Book a Call
               </Button>
