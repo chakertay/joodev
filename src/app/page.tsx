@@ -61,10 +61,10 @@ export default function Home() {
         <LampComponent />
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 -mt-72 max-w-7xl mx-auto px-4">
           {/* Large card - 2x2 */}
-          <div className="md:col-span-2 row-span-2 h-[600px]">
+          <div className="md:col-span-2 row-span-2 h-[600px]">  
             <CardDemo 
-              title="AI-Powered Revenue Recovery & Optimization" 
-              description="Minimize lost sales and maximize revenue with intelligent cart abandonment detection and personalized, multi-channel recovery campaigns via SMS, emails, and ads to re-engage customers and convert abandoned carts into completed purchases." 
+              title="Automatisation Comptable et Facturation" 
+              description="Automatisez l'extraction des données de factures et le rapprochement des comptes, réduisant les erreurs et économisant des heures.." 
               image="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xnbTBobTc5eXhkNHQ1M2VjM2VhOWFrZW11aWFpZGQ4cTBnbzdhciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RlwF2vFb4y7bDnWvcO/giphy.gif"
               className="h-full"
             />
@@ -73,8 +73,8 @@ export default function Home() {
           {/* Medium cards - 1x1 */}
           <div className="md:col-span-1 h-[288px]">
             <CardDemo 
-              title="Automated Customer Loyalty" 
-              description="Automated, personalized post-purchase communications." 
+              title="Qualification de Leads par IA" 
+              description="Utilisez l'IA pour identifier et prioriser les pistes de vente prometteuses, augmentant les taux de conversion de votre équipe." 
               image="https://media.giphy.com/media/l4FsmpXJlu0VSteLe/giphy.gif?cid=ecf05e47cf311fnfkmuf8zvzrd5memapvp5pw9m7oh53gl7z&ep=v1_gifs_search&rid=giphy.gif&ct=g"
               className="h-full"
             />
@@ -82,8 +82,8 @@ export default function Home() {
           
           <div className="md:col-span-1 h-[288px]">
             <CardDemo 
-              title="Inventory Management" 
-              description="Product information synchronization and content publishing across all sales channels." 
+              title="Optimisation des Campagnes Marketing" 
+              description="Maximisez le ROI de vos campagnes marketing avec l'IA qui analyse les performances, segmente les audiences et personnalise les messages publicitaires." 
               image="https://media.giphy.com/media/xUOwGdwxqXCukhgUmY/giphy.gif?cid=ecf05e475z0kas8v706ylmq9g8ea6tdajuqamfsk9jxjsxbx&ep=v1_gifs_related&rid=giphy.gif&ct=g"
               className="h-full"
             />
@@ -92,8 +92,8 @@ export default function Home() {
           {/* Wide card - 2x1 */}
           <div className="md:col-span-3 lg:col-span-2 h-[288px]">
             <CardDemo 
-              title="Dynamic Pricing & Competitive Edge" 
-              description="Stay ahead and optimize margins with real-time competitor price monitoring and automated dynamic pricing. " 
+              title="Optimisation des Stocks et de la Chaîne Logistique" 
+              description="Systèmes pilotés par l'IA pour prévoir la demande, optimiser les stocks et automatiser les commandes pour une chaîne logistique efficace." 
               image="https://media.giphy.com/media/fSRQtBAzrPokPCItuu/giphy.gif?cid=ecf05e479djctztx4aqgob7ugws0yq4zpkh3e55k8vi9058x&ep=v1_gifs_search&rid=giphy.gif&ct=g"
               className="h-full"
             />

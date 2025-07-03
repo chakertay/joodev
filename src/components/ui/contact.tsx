@@ -31,11 +31,11 @@ export function Contact() {
               viewport={{ once: true }}
               variants={fadeInUp}
             >
-              <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-                Let&apos;s Talk
+              <h2 className="text-3xl md:text-3xl font-bold text-white mb-4">
+                Rendez-vous
               </h2>
               <p className="text-neutral-400 mb-8 text-lg">
-                Schedule a call with our team to discuss how we can help transform your business with our solutions.
+                Prendre une rendez-vous avec notre équipe pour discuter de comment nous pouvons vous aider à transformer votre entreprise avec nos solutions.
               </p>
             </motion.div>
             
@@ -51,7 +51,7 @@ export function Contact() {
                 className="w-full py-6 text-lg bg-white/5 hover:bg-white/10 border-white/20 text-white hover:text-white transition-all duration-300 transform hover:scale-[1.02]"
                 onClick={() => window.open("https://cal.com/axalya", "_blank")}
               >
-                Book a Call
+                Prendre un rendez-vous
               </Button>
               
               <div className="space-y-4 text-neutral-300">
@@ -78,7 +78,7 @@ export function Contact() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="space-y-2">
                 <label htmlFor="first-name" className="text-sm font-medium text-neutral-400">
-                  First Name
+                  Prénom
                 </label>
                 <Input
                   id="first-name"
@@ -89,7 +89,7 @@ export function Contact() {
               </div>
               <div className="space-y-2">
                 <label htmlFor="last-name" className="text-sm font-medium text-neutral-400">
-                  Last Name
+                  Nom
                 </label>
                 <Input
                   id="last-name"
@@ -101,7 +101,7 @@ export function Contact() {
             </div>
             <div className="space-y-2">
               <label htmlFor="email" className="text-sm font-medium text-neutral-400">
-                Email Address
+                Email
               </label>
               <Input
                 id="email"
@@ -112,7 +112,7 @@ export function Contact() {
             </div>
             <div className="space-y-2">
               <label htmlFor="message" className="text-sm font-medium text-neutral-400">
-                Your Message
+                Message
               </label>
               <Textarea
                 id="message"
@@ -130,7 +130,7 @@ export function Contact() {
                 type="submit" 
                 className="w-full py-6 text-lg bg-white text-black hover:bg-neutral-200 transition-colors duration-300"
               >
-                Send Message
+                Envoyer
               </Button>
             </motion.div>
           </form>

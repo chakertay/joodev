@@ -3,12 +3,11 @@ import { DM_Sans } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/providers/theme-provider"
 
-// const inter = Inter({ subsets: ["latin"] });
 const font = DM_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "Axalya.",
-  description: "Automate Your Work With Axalya",
+  title: "Axalya",
+  description: "Automate your work with Axalya",
 };
 
 export default function RootLayout({
@@ -17,7 +16,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="fr">
+      <head>
+        <link rel="icon" href="/favicon.ico" />
+      </head>
       <body className={font.className}>
         <ThemeProvider
           attribute="class"

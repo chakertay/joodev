@@ -26,10 +26,10 @@ const Navbar = async (props: Props) => {
                         <Link href="#services">Services</Link>
                     </li>
                     <li>
-                        <Link href="#about">About Us</Link>
+                        <Link href="#about">A propos</Link>
                     </li>
                     <li>
-                        <Link href="#experience">Experience</Link>
+                        <Link href="#experience">Exprience</Link>
                     </li>
                     <li>
                         <Link href="#contact">Contact</Link>
@@ -42,7 +42,7 @@ const Navbar = async (props: Props) => {
                 >
                     <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#393BB2_50%,#E2CBFF_100%)]" />
                     <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-slate-950 px-3 py-1 text-sm font-medium text-white backdrop-blur-3xl">
-                        Book a Call
+                        Rendez-vous
                     </span>
                 </Link>
                 <MenuIcon className='md:hidden' />

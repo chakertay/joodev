@@ -105,12 +105,12 @@ export const Header = () => {
     return (
         <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full  left-0 top-0">
             <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
-                The Ultimate <br /> AI & Automation <br /> Agency
+            L'Agence Ultime <br /> AI & Automation
             </h1>
             <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-                We build products that cuts down cost and generate sales.
-                We are a team of passionate developers and consultants that help business owners 
-                optimize business processes and outcompete competitors.
+            Nous créons des solutions qui réduisent vos coûts et génèrent des ventes.
+            Nous sommes une équipe de développeurs et de consultants passionnés qui aident les chefs d'entreprise à 
+            optimiser leurs processus et à dépasser leurs concurrents.
             </p>
         </div>
     )
