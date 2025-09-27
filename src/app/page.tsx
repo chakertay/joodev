@@ -7,6 +7,7 @@ import Navbar from "@/components/global/navbar";
 import { Button } from "@/components/ui/button";
 import { CardDemo } from "@/components/ui/carddemo";
 import { Contact } from "@/components/ui/contact";
+import { Experts } from "@/components/ui/experts";
 import { clients, products } from "@/lib/constant";
 import { CheckIcon } from "lucide-react";
 import Image from "next/image";
@@ -99,6 +100,9 @@ export default function Home() {
             />
           </div>
         </div>
+      </section>
+      <section id="experts">
+        <Experts />
       </section>
       <section id="contact">
         <Contact />
