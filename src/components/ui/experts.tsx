@@ -189,7 +189,7 @@ export function Experts() {
     {
       name: "Rachid Belabbas",
       title: "Fondateur & CEO",
-      description: "Expert en automatisation et transformation digitale avec plus de 10 ans d'expérience dans l'optimisation des processus métier.",
+      description: "Expert en automatisation et transformation digitale avec plus de 10 ans d\'expérience dans l\'optimisation des processus métier.",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=192&h=192&fit=crop&crop=face&auto=format&q=80",
       linkedinUrl: "https://linkedin.com/in/rachid-belabbas",
       email: "rachid@axalya.com"
@@ -197,7 +197,7 @@ export function Experts() {
     {
       name: "Zaher",
       title: "Fondateur & CTO",
-      description: "Spécialiste en intelligence artificielle et développement de solutions innovantes pour l'automatisation des entreprises.",
+      description: "Spécialiste en intelligence artificielle et développement de solutions innovantes pour l\'automatisation des entreprises.",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=192&h=192&fit=crop&crop=face&auto=format&q=80",
       linkedinUrl: "https://linkedin.com/in/zaher",
       email: "zaher@axalya.com"
@@ -230,8 +230,8 @@ export function Experts() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            Rencontrez les <span className="text-white font-semibold">fondateurs d'Axalya</span>, 
-            experts en automatisation et intelligence artificielle qui transforment l'avenir des entreprises
+            Rencontrez les <span className="text-white font-semibold">fondateurs d&apos;Axalya</span>, 
+            experts en automatisation et intelligence artificielle qui transforment l&apos;avenir des entreprises
           </motion.p>
         </motion.div>
 
